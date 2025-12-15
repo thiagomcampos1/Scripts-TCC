@@ -25,7 +25,7 @@ Utilizando uma arquitetura de **Inteligência Artificial Híbrida**, o sistema c
 
 ## 🛠️ Arquitetura e Tecnologias
 
-O projeto foi desenvolvido em **Python** seguindo um pipeline rigoroso de Engenharia de Dados:
+O projeto foi desenvolvido em **Python**:
 
 * **Linguagem:** Python 3.9+
 * **Interface:** Streamlit
