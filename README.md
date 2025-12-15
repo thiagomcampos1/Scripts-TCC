@@ -1,4 +1,4 @@
-# 📊 Sistema de Suporte à Decisão para Data Centers com IA Híbrida
+# 📊 Sistema de Suporte à Decisão para Data Centers
 
 > **Projeto de TCC:** Uma abordagem prescritiva para eficiência energética e detecção de falhas em sistemas de climatização de missão crítica.
 
