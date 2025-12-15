@@ -1,6 +1,6 @@
 # 📊 Sistema de Suporte à Decisão para Data Centers com IA Híbrida
 
-> **Projeto de Mestrado/TCC:** Uma abordagem prescritiva para eficiência energética e detecção de falhas em sistemas de climatização de missão crítica.
+> **Projeto de TCC:** Uma abordagem prescritiva para eficiência energética e detecção de falhas em sistemas de climatização de missão crítica.
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
